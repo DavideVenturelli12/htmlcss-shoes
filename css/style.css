@@ -33,6 +33,11 @@ nav .numbers{
     transform: translate(0%,60%);
 }
 
+nav .link{
+    text-decoration: none;
+    color: black;
+}
+
 article{
     width: 100%;
     height: 700px;
